@@ -31,5 +31,3 @@ merryChristmas.forEach(a => {
     .to(a,{animation: neonLetters, color: '#D2042D', duration: 1})
     .to(a, {animation: '', color: '#858585', duration: .2})
 })
-
-
